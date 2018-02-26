@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dandara Sousa</title>
+    <link>https://dandaramcsousa.github.io/portfolio/</link>
+    <description>Recent content on Dandara Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dandaramcsousa.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://dandaramcsousa.github.io/portfolio/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/portfolio/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://dandaramcsousa.github.io/portfolio/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/portfolio/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://dandaramcsousa.github.io/portfolio/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/portfolio/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://dandaramcsousa.github.io/portfolio/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/portfolio/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estabelecimentos de Ensino Fundamental em áreas remanescentes de Quilombos</title>
+      <link>https://dandaramcsousa.github.io/portfolio/post/escolaridade-quilombola/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/portfolio/post/escolaridade-quilombola/</guid>
+      <description>Há muitos anos atrás o Brasil enquanto um país com escravidão vivenciou a existência de quilombos. Um dos mais famosos foi o Quilombo dos Palmares, que estava onde atualmente é Alagoas e abrigou milhares de negros refugiados. Os lugares onde eram quilombos são até hoje vividos com culturas daquela época, com forte raiz na cultura africana.
+A motivação para esse post veio do decreto que regulamenta terras quilombolas e que estava sendo ameaçado de ser derrubado.</description>
+    </item>
+    
+  </channel>
+</rss>
